@@ -19,3 +19,4 @@ for(let i=0;i<cafe.menus.length;i++){
   console.log(cafe.menus[i]);
 }
 
+
