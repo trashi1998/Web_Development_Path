@@ -1,2 +1,2 @@
-# Web_Development_Path
+# Responsive webpage
 HTML,CSS,JavaScript
